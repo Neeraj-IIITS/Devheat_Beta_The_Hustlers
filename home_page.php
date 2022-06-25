@@ -36,7 +36,7 @@
           <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" style="user-select: auto;"></path>
           <span class="ml-3 text-xl" style="user-select: auto;">Event Manager_IIITS</span>
         </a>
-        <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center" style="user-select: auto; background-color:;">
+        <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center" style="user-select: auto;">
           <a href="home_page.php" class="mr-5 hover:text-gray-900" style="user-select: auto;">Home</a>
           <a href="#events" class="mr-5 hover:text-gray-900" style="user-select: auto;">Events</a>
           <a href="#contests" class="mr-5 hover:text-gray-900" style="user-select: auto;">Contests</a>
