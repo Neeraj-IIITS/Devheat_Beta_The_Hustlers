@@ -36,7 +36,7 @@
           <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" style="user-select: auto;"></path>
           <span class="ml-3 text-xl" style="user-select: auto;">Event Manager_IIITS</span>
         </a>
-        <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center" style="user-select: auto;">
+        <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center" style="user-select: auto; background-color:;">
           <a href="home_page.php" class="mr-5 hover:text-gray-900" style="user-select: auto;">Home</a>
           <a href="#events" class="mr-5 hover:text-gray-900" style="user-select: auto;">Events</a>
           <a href="#contests" class="mr-5 hover:text-gray-900" style="user-select: auto;">Contests</a>
@@ -44,10 +44,10 @@
         </nav>
       </div>
     </header>
-    <section class="text-gray-600 body-font" style="user-select: auto;">
+    <section class="text-gray-600 body-font" style="user-select: auto; background-color: rgb(180, 199, 211);">
       <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center" style="user-select: auto;">
         <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center" style="user-select: auto;">
-          <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900" style="user-select: auto; color: red;"><u>About Our Web-Site</u></h1>
+          <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900" style="user-select: auto; color: rgb(66, 79, 228);">About Our Web-Site</h1>
           <h2 class="title-font text-3xl mb-4 font-medium text-gray-600" style="user-select: auto; color: coral;">Events and Contests Manager of 'Indian Institute of Information Technology, Surat.'</h2>
             <p class="mb-8 leading-relaxed" style="user-select: auto; font-size: 20px;"><i>From this site you can access all the events, contests, registeration, previous records and many more of the Indian Institute of Information Technology, Surat [IIIT S].</i></p>
           <div class="flex justify-center" style="user-select: auto;"></div>
