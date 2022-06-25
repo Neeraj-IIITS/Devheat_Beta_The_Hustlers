@@ -38,7 +38,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
               </div>';
             }
-        ?>
+        ?><br>
         <a href="event_list_add.php" class="btn btn-dark mb-3">Add New</a>
 
         <table class="table table-hover text-center">
