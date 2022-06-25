@@ -29,9 +29,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 </head>
 <body>
-
-    <div class="container">
-        <div class="text-center mb-4">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <div class="container">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div class="text-center mb-4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <h3>Add New Contest</h3>
             <p class="text-muted">Complete the form below to add the new contest</p>
         </div>
