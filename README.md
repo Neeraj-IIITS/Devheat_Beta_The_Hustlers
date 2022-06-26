@@ -117,7 +117,7 @@ Internet Explorer  :
 After running the home page successfully we can do the following operation  :
 
 ```bach
-   * If we go to the "Events list" page we will get to see the "Add" button from wherer we can add a 
+    * If we go to the "Events list" page we will get to see the "Add" button from wherer we can add a 
     
       new event by giving the required data and we have to press "Add".
       
