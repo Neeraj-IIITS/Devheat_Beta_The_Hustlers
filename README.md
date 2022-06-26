@@ -51,7 +51,7 @@ Features to implement in future  :
 Xampp  :
 
 ```bash
-    * First - We have to install the "Xampp" from it's official website.
+    * First - We have to install the "Xampp" from its official website.
 
     * Second - We have to install "Apache", and  "MySQL"  along with the "Xampp".
 
@@ -83,7 +83,7 @@ Xampp  :
 Visual Stdio Code  :
 
 ```bash
-    * First - We have to install the "VS Code" from it's official website and we will install 
+    * First - We have to install the "VS Code" from its official website and we will install 
     
       few extensions upon our personal requests.
 
