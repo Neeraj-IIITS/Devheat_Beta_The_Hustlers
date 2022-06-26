@@ -83,7 +83,7 @@ Xampp  :
 Visual Stdio Code  :
 
 ```bash
-    * First - We have to install the "VS Code" from it's official website and we'll install 
+    * First - We have to install the "VS Code" from it's official website and we will install 
     
       few extensions upon our personal requests.
 
@@ -131,9 +131,9 @@ After running the home page successfully we can do the following operation  :
     
       the "Home Page" and if  we click on the "Contact Us" again it will scroll down to the 
       
-      "Contact Us" form there we can enter the required details and click on the "Submit" and 
+      "Contact Us" form there we can enter the required details and click on the "Submit". 
       
-      this data will be stored in their respective databases.
+    * These data will be stored in their respective databases and in their respective tables.
 ```
 
 ## Demo Vido Link
