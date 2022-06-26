@@ -6,12 +6,12 @@
 Event_Manager_IIITS
 
 
-## Project Decreption
+## Project Description 
 
 What our application does :
 
 ``` bash
-    As it's name suggest, it will manage the data of all the events, contests and their previous 
+    As its name suggest, it will manage the data of all the events, contests and their previous 
     
     winner records.
 ```
@@ -119,11 +119,11 @@ After running the home page successfully we can do the following operation  :
 ```bach
     * If we go to the "Events list" page we will get to see the "Add" button from wherer we can add a 
     
-      new event by giving the required data and we have to press "Add" and we can see the data in the 
+      new event by giving the required data and we have to press "Add".
       
-      table and if we want to edit the data we can just click on "edit" symbol and edit the data and 
-      
-      click on the "Edit" button and if can event delete the data by clicking the "Delete" symbol.
+    * We can see the data in the table and if we want to edit the data we can just click on "edit" symbol 
+    
+      and edit the data and click on the "Edit" button and if can event delete the data by clicking the "Delete" symbol.
 
     * The same steps will be followed for rest of the pages.
 
