@@ -117,21 +117,23 @@ Internet Explorer  :
 After running the home page successfully we can do the following operation  :
 
 ```bach
-    * If we go to the "Events list" page we will get to see the "Add" button from wherer we can add a new event by giving 
+    * If we go to the "Events list" page we will get to see the "Add" button from wherer we can add a 
     
-      the required data and we have to press "Add" and we can see the data in the table and if we want to edit the data we 
+      new event by giving the required data and we have to press "Add" and we can see the data in the 
       
-      can just click on "edit" symbol and edit the data and click on the "Edit" button and if can event delete the data by 
+      table and if we want to edit the data we can just click on "edit" symbol and edit the data and 
       
-      clicking the "Delete" symbol.
+      click on the "Edit" button and if can event delete the data by clicking the "Delete" symbol.
 
     * The same steps will be followed for rest of the pages.
 
-    * If we have any queries we can just come on to the "Contact Us" then we will be redirected to the "Home Page" and if 
+    * If we have any queries we can just come on to the "Contact Us" then we will be redirected to 
     
-      we click on the "Contact Us" again it will scroll down to the "Contact Us" form there we can enter the required details 
-    
-      and click on the "Submit" and this data will be stored in their respective databases.
+      the "Home Page" and if  we click on the "Contact Us" again it will scroll down to the 
+      
+      "Contact Us" form there we can enter the required details and click on the "Submit" and 
+      
+      this data will be stored in their respective databases.
 ```
 ## Credits
 
